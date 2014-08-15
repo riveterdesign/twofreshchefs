@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Two Fresh Chefs</title>
+		<link type="text/css" rel="stylesheet" href="main.css">
+		<link href='http://fonts.googleapis.com/css?family=Dancing+Script:700' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
+	</head>
+	<body>
+		<div class="menu">
+			<a href=""><img src="images/1405521266_menu-alt.svg" class="pull-left"></a>
+		</div>
+		<div class="header-bar">
+			<div class="logo">
+				<img src="images/TwoFreshChefs_Logos_temp.jpg">
+			</div>
+			<div class="pull-right">
+				<hr>
+				<p>716.999.9999</p>
+				<p>Orchard Park, NY</p>
+				<p><a href="">SCHEDULE AN<br>
+					APPOINTMENT</a>
+				</p>
+				<hr>
+			</div>
+		</div>
+		<div>
+			<div>
+				<hr class="pull-left">
+				<h1>Fresh. Family. Food.</h1>
+				<hr class="pull-right">
+			</div>
+			<div class="intro">
+				<p>Welcome! We're <a href="">Deborah</a> and <a href="">Dave,</a>
+					Two Fresh Chefs here to help you and your family with your weekly meals.
+					Whether you're just too busy to cook or are struggling to accommodate the dietary needs of all your family members, you can count on us to answer the dreaded question, "What's for dinner?". Not only will you please all the palates that gather at your table, but you'll get fresh, healthy meals customized to your needs. So <a href="">give us a call,</a> kick back, relax, and <a href="">let us get cooking.</a>
+				</p>
+			</div>
+		</div>
+		<div>
+			<div>
+				<hr class="pull-left">
+				<h2>Your homemade gourmet.</h2>
+				<hr class="pull-right">
+			</div>
+			<div class="image-bank">
+				<a href="" class="previous"><</a>
+				<img src="http://relishme.files.wordpress.com/2013/06/almond-chicken-with-summer-salsa-crispy-edged.jpg">
+				<a href="" class="next">></a>
+			</div>
+		</div>
+		<div class="footer">
+			<section>
+				<ul class="container pull-left">
+					<li><a href="#">About Us</a></li>
+					<li><a href="#">How it Works</a></li>
+					<li><a href="#">Contact</a></li>
+				</ul>
+			</section>
+			<section class="footer-right">
+				<ul class="container pull-right">
+					<li><a href="#">Follow us on Facebook</a></li>
+					<li><a href="#">716.999.9999</a></li>
+				</ul>
+			</section>
+		</div>
+
+	</body>
+</html>
