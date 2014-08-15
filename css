@@ -1,0 +1,186 @@
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body{
+	padding: 0px;
+	margin: 10px;	
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div{
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.menu{
+	margin-left: 10px;
+	margin-top: 0;
+	padding: 10px;
+	background: #f2f2f2;
+	width: 30px;
+	height: 30px;
+	position: fixed;
+	top: 0;
+}
+
+.menu:hover{
+	background: #9ee134;
+}
+
+.header-bar{
+	display: block;
+	font-family: Arial, sans-serif;
+	color: gray;
+	font-size: .85em;
+	margin-top: 2px;	
+	padding: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 90%;
+	vertical-align: top;
+}
+
+div .logo{
+	width: 175px;
+	margin-left: 20px;
+	margin-right: auto;
+	min-width: 40px;
+}
+
+.logo img{
+	width: 35%;
+	margin-top: -20px;
+	margin-left: auto;
+	margin-right: auto;
+	min-width: 50px;
+	max-width: 200px;
+}
+
+h1{
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	font-size: 2em;
+}
+
+p{
+	font-family: 'Open Sans', Arial, sans-serif;
+	color: gray;
+	line-height: 110%;
+}
+
+.image-bank{
+	width: 100%;
+}
+
+.image-bank img{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.intro p{
+	font-family: 'Open Sans', Arial, sans-serif;
+	color: gray;
+	margin: 10px;
+	line-height: 200%;
+}
+
+.btn-primary{
+	background: black;
+	color: white;
+	font-weight: bold;
+	border-radius: 2px;
+}
+
+.footer{
+	display: block;
+	background: black;
+	width: 100%;
+	color: green;
+}
+
+.footer .container{
+	padding-top: 4px;
+	position: bottom;
+	display: inline-block;
+	font-family: Arial, sans-serif;
+	font-style: normal;
+	font-size: .85em;
+	height: 40px;
+	vertical-align: middle;
+}
+
+.footer ul li{
+	display: inline-block;
+	padding-top: 10px;
+	padding-left: 1px;
+	padding-right: 1px;
+	margin-left: 33px;
+}
+
+.pull-right{
+	float: right;
+	margin-right: 10px;
+}
+
+.pull-left{
+	width: 30px;
+}
+
+.pull-right ul {
+	float: right;
+	right: 0;
+	margin-right: 10px
+}
+
+.container .pull-left ul {
+	position: absolute;
+	left: 0;
+	margin-left: 10px
+}
+
+.footer-right{
+	margin-left: 75%;
+}
+
+section {
+	display: inline-block;
+}
+
+.footer a{
+	text-decoration: none;
+	color: #9ee134;
+}
+
+.footer a:hover{
+	text-decoration: underline;
+}
+
+a{
+	text-decoration: none;
+	font-weight: bold;
+	color: gray;
+}
+
+a:hover{
+	text-decoration: none;
+	color: #9ee134;
+}
